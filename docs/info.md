@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is the example project in Wokwi, used in the Hackaday Europe workshop. It does not have any changes in it at this point.
 
 ## How to test
 
-Explain how to use your project
+Flip switches 0-7 to changes to switch on the segments on the display
 
 ## External hardware
 
